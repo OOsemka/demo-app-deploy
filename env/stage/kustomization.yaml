@@ -3,3 +3,6 @@ kind: Kustomization
 
 resources:
 - ../../base
+images:
+- name: ghcr.io/OOsemka/demo-app
+  newTag: ae9f1aa6634958160016efd0d9798cd4ed244be8
