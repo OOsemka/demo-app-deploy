@@ -6,6 +6,6 @@ resources:
 
 images:
 - name: ghcr.io/OOsemka/demo-app
-  newTag: 8946b4c32dd57be25c58e6d86f17567a910aeef0
+  newTag: ae9f1aa6634958160016efd0d9798cd4ed244be8
 - name: ghcr.io/oosemka/demo-app
   newTag: latest
