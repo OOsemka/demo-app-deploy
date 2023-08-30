@@ -1,1 +1,3 @@
 image: ghcr.io/OOsemka/demo-app:ae9f1aa6634958160016efd0d9798cd4ed244be8
+
+env: stage
